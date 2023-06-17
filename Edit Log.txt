@@ -1,0 +1,28 @@
+Edited File : application\views\jadwal\index.php
+
+
+Kota Asal => Nama Event
+Kota Tujuan => ID Event
+
+Tanggal Penerbangan => Tanggal Konser
+
+ID Penerbangan => -
+Bandara => Main Band
+Kota => Venue
+Tgl Penerbangan => Tgl Event
+Asal => Nama Event
+Tujuan => ID Event
+Jam Berangkat => Waktu Event
+Jam Tiba => Selesai Event
+Tipe Pesawat => Tipe Venue
+Kursi Ekonomi => Tiket Festival
+Kursi Bisnis => Tiket VIP
+
+
+Edited File : application\views\booking\input.php
+
+Kota => ID Pelanggan
+Negara => -
+Kelas => Tiket
+Bandara TUjuan => -
+Jumlah Penonton => -
